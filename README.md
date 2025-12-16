@@ -1,5 +1,5 @@
 ## Hi there 👋
-Merhaba ben Mustafa Skaik
+Merhaba ben Mustafa Skaik. 
 Uçak Mühendisi/Aeronautical Engineer @IGÜ
 <!--
 **mustafaskaik-eng/mustafaskaik-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
