@@ -1,5 +1,10 @@
 ## Hi there 👋 Merhaba ben Mustafa Skaik. 
-Uçak Mühendisi/Aeronautical Engineer @IGÜ
+Uçak Mühendisi/Aeronautical Engineer @IGÜ.  
+
+Yabancı Dil Olarak İngilizce Sınavı (IELTS), 2023, İstanbul.
+
+Mühendislik Çizimi & SolidWorks.
+
 <!--
 **mustafaskaik-eng/mustafaskaik-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
